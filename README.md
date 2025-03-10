@@ -48,15 +48,7 @@ This version includes essential features to get started, but for the **full expe
 🔗 **Check out the full version in action:**  
 👉 [PAID Version Live Demo](https://snapgram-one-kappa.vercel.app/)  
 
----
-
-## ☕ Support My Work!  
-
-If this free version helped you, consider **buying me a coffee** to support future projects! 💙  
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/horoji86v)  
-
----
+ ---
 
 ## 📜 Installation & Setup  
 
@@ -144,6 +136,15 @@ git push origin feature/your-feature-name
 - Select your branch and provide a detailed description of the changes you made.
 - Submit the pull request for review.
 ---
+
+
+## ☕ Support My Work!  
+
+If this free version helped you, consider **buying me a coffee** to support future projects! 💙  
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/horoji86v)  
+
+
 
 <h2 id="colab">🤝 Collaborators</h2>
 
