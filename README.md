@@ -1,60 +1,104 @@
+
+
 # 🔥 Modern Social Media Web App (FREE Version)  
 
-**Built with:** React, TypeScript, Tailwind CSS, Appwrite, tanstackquery ,shade cn 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+<img src="https://github.com/user-attachments/assets/105da6b7-b296-45fa-9e56-b1d21f0a5383"></p>
+  </a>
+    <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+<img src="https://img.shields.io/badge/ShadCN-%232E3440.svg?style=for-the-badge&amp;logo=shadcn&amp;logoColor=white" alt="shields">
+    <img src="https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery" /> 
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+<img src='https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white' alt='pwa' />
+  </div>
+</div>
 
-👋 **Welcome to the free version of this modern social media web app!**  
+<br/>
+
+# 👋 **Welcome to the free version of this modern social media web app!**  
 This version includes essential features to get started, but for the **full experience**, consider upgrading to the **PAID version**!  
 
 ---
 
-## 🚀 Features in the FREE Version  
-✅ **Basic Features** – Home Feed, Post Creation, User Profiles  
-✅ **Infinite Scroll** – Smooth browsing experience  
-✅ **Saved Posts** – Keep track of favorite content  
-✅ **Explore Page with Post Search**  
-✅ **People Page** – Find and connect with other users  
-✅ **Responsive & Mobile Friendly**  
+## 🎥 Watch the PAID Version Demo  
 
-📌 **This is a fully functional project!** But if you want to unlock the **full experience**, check out the **PAID version** below! 👇  
+📺 **YouTube Video Demo:**  
+👉 [Click Here to Watch](#your-youtube-video-link)  
 
 ---
 
-## 💎 Upgrade to the PAID Version for Full Features!  
-
-🔥 Everything in FREE + MORE!  
-🔥 **Stories with 24-hour auto-delete**  
-🔥 **Reels Page** – Watch, Upload & Search Reels  
-🔥 **Saved Reels Section** – Easily access saved short videos  
-🔥 **Full Profile Customization & Edit Options**  
-🔥 **Advanced User Search & Explore Features**  
-🔥 **Installable PWA Support – Use like a real mobile app**  
-🔥 **Exclusive Performance Optimizations**  
-🔥 **Lifetime Access & Future Updates**  
-
-📌 **Why Upgrade?**  
-✔️ Get access to **exclusive features**  
-✔️ **Save time** by getting a fully optimized, production-ready codebase  
-✔️ **Support development** and keep getting updates  
-
-👉 [Buy the FULL VERSION here] : 
-<br/>
-
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/horoji86v) 
-
----
-
-## 🎥 Live Demo (PAID Version)  
+## 🌍 Try the Live Demo (PAID Version)  
 
 🔗 **Check out the full version in action:**  
 👉 [PAID Version Live Demo](https://snapgram-one-kappa.vercel.app/)  
 
+---
+
+## 📸 Preview of PAID Version Features  
+
+👀 **See what you unlock in the PAID version!**  
+
+<img src='https://github.com/user-attachments/assets/2e63cdfa-b7db-430f-8077-ef86b0593b7a' alt='story' />
+
+📌 **Stories with auto-delete (Available in PAID version)**  
+
+<img src='https://github.com/user-attachments/assets/ceb20923-9afe-4233-80ab-b29177f9a406' alt='reels'> 
+
+📌 **Reels Page – Watch, Upload & Search Reels**  
+
+<img src='https://github.com/user-attachments/assets/ce917767-f1c3-4ed7-927f-13b8893f2915' alt='profile'>
+
+📌 **Full Profile Customization & Advanced User Search**  
+
+🚀 **Want full access?** Unlock the **PAID version** now!  
+👉 **[Get the FULL VERSION](https://www.buymeacoffee.com/horoji86v)**  
+
+---
+
+## 📌 FREE vs. PAID Features  
+
+| Feature                        | FREE Version ✅ | PAID Version 🔥 |
+|--------------------------------|---------------|----------------|
+| **Basic Features** – Home, Posts, Profiles | ✅ | ✅ |
+| **Infinite Scroll** – Smooth browsing | ✅ | ✅ |
+| **Saved Posts** – Keep track of favorites | ✅ | ✅ |
+| **Explore Page with Post Search** | ✅ | ✅ |
+| **People Page** – Find and connect with users | ✅ | ✅ |
+| **Stories with Auto-Delete** | ❌ | 🔥 Available |
+| **Reels Page – Upload & Watch Reels** | ❌ | 🔥 Available |
+| **Saved Reels Section** | ❌ | 🔥 Available |
+| **Full Profile Customization** | ❌ | 🔥 Available |
+| **Advanced User Search & Explore** | ❌ | 🔥 Available |
+| **Installable PWA (Mobile App Experience)** | ❌ | 🔥 Available |
+| **Exclusive Performance Optimizations** | ❌ | 🔥 Available |
+| **Lifetime Access & Future Updates** | ❌ | 🔥 Available |
+
+🚀 **Want the full version?** 👉 [Upgrade Now](https://www.buymeacoffee.com/horoji86v)  
+
+---
+
+## 💎 How to Get the Full Source Code?  
+
+📌 **Step 1:** Go to **Buy Me a Coffee** and purchase access:  
+👉 **[Buy Now](https://www.buymeacoffee.com/horoji86v)**  
+
+📌 **Step 2:** After payment, you'll get a **private repo invite** to the PAID version.  
+
+📌 **Step 3:** Clone the repo & start building! 🚀  
+
  ---
 
 ## 📜 Installation & Setup  
+Make sure you have the following installed on your machine:
 
-1️⃣ Clone this repository:  
-```bash
-git clone https://github.com/yourusername/free-social-media-app.git
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
 
 **Installation**
 
@@ -76,7 +120,13 @@ VITE_APPWRITE_STORAGE_ID=
 VITE_APPWRITE_USER_COLLECTION_ID=
 VITE_APPWRITE_POST_COLLECTION_ID=
 VITE_APPWRITE_SAVES_COLLECTION_ID=
-
+VITE_APPWRITE_FOLLOWERS_COLLECTION_ID = 
+VITE_APPWRITE_STORIES_COLLECTION_ID = 
+VITE_APPWRITE_COMMENT_COLLECTION_ID =
+VITE_APPWRITE_REELS_COLLECTION_ID = 
+VITE_APPWRITE_REELSLIKES_COLLECTION_ID = 
+VITE_APPWRITE_REELSCOMMENTS_COLLECTION_ID = 
+VITE_APPWRITE_REELSAVES_COLLECTION_ID =
 ```
 Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the [Appwrite website](https://appwrite.io/).
 
@@ -99,7 +149,7 @@ Click the "Fork" button on the top right corner of the repository page on GitHub
 2. Clone Your Fork:
 
 ```bash
-git clone https://github.com/harjyoti12/Snapgram.git
+git clone https://github.com/harjyoti12/social.git
 
 cd Social_media_app
 ```
