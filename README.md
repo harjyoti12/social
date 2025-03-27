@@ -2,9 +2,24 @@
 
 # 🔥 Modern Social Media Web App (FREE Version)  
 
-**Built with:** React, TypeScript, Tailwind CSS, Appwrite, tanstackquery ,shade cn 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+<img src="https://github.com/user-attachments/assets/105da6b7-b296-45fa-9e56-b1d21f0a5383"></p>
+  </a>
+    <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+<img src="https://img.shields.io/badge/ShadCN-%232E3440.svg?style=for-the-badge&amp;logo=shadcn&amp;logoColor=white" alt="shields">
+    <img src="https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery" /> 
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+<img src='https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white' alt='pwa' />
+  </div>
+</div>
 
-👋 **Welcome to the free version of this modern social media web app!**  
+<br/>
+
+# 👋 **Welcome to the free version of this modern social media web app!**  
 This version includes essential features to get started, but for the **full experience**, consider upgrading to the **PAID version**!  
 
 ---
@@ -78,10 +93,12 @@ This version includes essential features to get started, but for the **full expe
  ---
 
 ## 📜 Installation & Setup  
+Make sure you have the following installed on your machine:
 
-1️⃣ Clone this repository:  
-```bash
-git clone https://github.com/yourusername/free-social-media-app.git
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
 
 **Installation**
 
