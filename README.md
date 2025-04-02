@@ -3,7 +3,7 @@
 # 🔥 Modern Social Media Web App (FREE Version)  
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/trRuVtJcN38" target="_blank">
 <img src="https://github.com/user-attachments/assets/105da6b7-b296-45fa-9e56-b1d21f0a5383"></p>
   </a>
     <div>
@@ -27,7 +27,7 @@ This version includes essential features to get started, but for the **full expe
 ## 🎥 Watch the PAID Version Demo  
 
 📺 **YouTube Video Demo:**  
-👉 [Click Here to Watch](#your-youtube-video-link)  
+👉 [Click Here to Watch](https://youtu.be/trRuVtJcN38)  
 
 ---
 
@@ -55,7 +55,7 @@ This version includes essential features to get started, but for the **full expe
 📌 **Full Profile Customization & Advanced User Search**  
 
 🚀 **Want full access?** Unlock the **PAID version** now!  
-👉 **[Get the FULL VERSION](https://www.buymeacoffee.com/horoji86v)**  
+👉 **[Get the FULL VERSION](https://buymeacoffee.com/horoji86v/build-your-own-social-media-app-just-5-full-source-code)**  
 
 ---
 
