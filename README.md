@@ -77,14 +77,14 @@ This version includes essential features to get started, but for the **full expe
 | **Exclusive Performance Optimizations** | ❌ | 🔥 Available |
 | **Lifetime Access & Future Updates** | ❌ | 🔥 Available |
 
-🚀 **Want the full version?** 👉 [Upgrade Now](https://www.buymeacoffee.com/horoji86v)  
+🚀 **Want the full version?** 👉 [Upgrade Now](https://buymeacoffee.com/horoji86v/build-your-own-social-media-app-just-5-full-source-code)  
 
 ---
 
 ## 💎 How to Get the Full Source Code?  
 
 📌 **Step 1:** Go to **Buy Me a Coffee** and purchase access:  
-👉 **[Buy Now](https://www.buymeacoffee.com/horoji86v)**  
+👉 **[Buy Now](https://buymeacoffee.com/horoji86v/build-your-own-social-media-app-just-5-full-source-code)**  
 
 📌 **Step 2:** After payment, you'll get a **private repo invite** to the PAID version.  
 
